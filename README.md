@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/rdonadono"><img src="https://api.daily.dev/devcards/ca80cc3500724ffe94e0aab361f08512.png?r=2gr" width="400" alt="Raffaele Donadono's Dev Card"/></a>
+
 <!--
 **rdonadono/rdonadono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
